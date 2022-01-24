@@ -128,7 +128,7 @@ function AppBar(): JSX.Element {
                                     symbol: 'xRKO',
                                     decimals: 18,
                                     image:
-                                      'https://raw.githubusercontent.com/amblade/patswap-icons/master/token/briko.png',
+                                      'https://raw.githubusercontent.com/amblade/patswap-icons/master/token/xrko.png',
                                   },
                                 }
                                 library.provider
@@ -174,7 +174,7 @@ function AppBar(): JSX.Element {
                                   symbol: 'RKO',
                                   decimals: 18,
                                   image:
-                                    'https://raw.githubusercontent.com/amblade/patswap-icons/master/token/yriko.png',
+                                    'https://raw.githubusercontent.com/amblade/patswap-icons/master/token/rko.png',
                                 },
                               }
                               if (library && library.provider.isMetaMask && library.provider.request) {
